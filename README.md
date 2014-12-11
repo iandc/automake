@@ -1,0 +1,4 @@
+automake
+========
+
+a automake sample
